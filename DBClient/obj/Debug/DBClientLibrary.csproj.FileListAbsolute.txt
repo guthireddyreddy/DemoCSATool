@@ -1,0 +1,6 @@
+C:\Users\guthireddy.reddy\Downloads\DemoCSATool\DBClient\bin\Debug\DBClientLibrary.dll
+C:\Users\guthireddy.reddy\Downloads\DemoCSATool\DBClient\bin\Debug\DBClientLibrary.pdb
+C:\Users\guthireddy.reddy\Downloads\DemoCSATool\DBClient\obj\Debug\DBClientLibrary.csproj.AssemblyReference.cache
+C:\Users\guthireddy.reddy\Downloads\DemoCSATool\DBClient\obj\Debug\DBClientLibrary.csproj.CoreCompileInputs.cache
+C:\Users\guthireddy.reddy\Downloads\DemoCSATool\DBClient\obj\Debug\DBClientLibrary.dll
+C:\Users\guthireddy.reddy\Downloads\DemoCSATool\DBClient\obj\Debug\DBClientLibrary.pdb

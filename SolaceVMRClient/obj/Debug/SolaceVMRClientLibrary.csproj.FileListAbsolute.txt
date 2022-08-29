@@ -1,0 +1,9 @@
+C:\Users\guthireddy.reddy\Downloads\DemoCSATool\SolaceVMRClient\bin\Debug\SolaceVMRClientLibrary.dll
+C:\Users\guthireddy.reddy\Downloads\DemoCSATool\SolaceVMRClient\bin\Debug\SolaceVMRClientLibrary.pdb
+C:\Users\guthireddy.reddy\Downloads\DemoCSATool\SolaceVMRClient\bin\Debug\M2Mqtt.Net.dll
+C:\Users\guthireddy.reddy\Downloads\DemoCSATool\SolaceVMRClient\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\guthireddy.reddy\Downloads\DemoCSATool\SolaceVMRClient\obj\Debug\SolaceVMRClientLibrary.csproj.AssemblyReference.cache
+C:\Users\guthireddy.reddy\Downloads\DemoCSATool\SolaceVMRClient\obj\Debug\SolaceVMRClientLibrary.csproj.CoreCompileInputs.cache
+C:\Users\guthireddy.reddy\Downloads\DemoCSATool\SolaceVMRClient\obj\Debug\SolaceVMRClientLibrary.csproj.CopyComplete
+C:\Users\guthireddy.reddy\Downloads\DemoCSATool\SolaceVMRClient\obj\Debug\SolaceVMRClientLibrary.dll
+C:\Users\guthireddy.reddy\Downloads\DemoCSATool\SolaceVMRClient\obj\Debug\SolaceVMRClientLibrary.pdb

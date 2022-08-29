@@ -1,0 +1,6 @@
+C:\Users\guthireddy.reddy\Downloads\DemoCSATool\BreakingChanges\bin\Debug\BreakingChanges.dll
+C:\Users\guthireddy.reddy\Downloads\DemoCSATool\BreakingChanges\bin\Debug\BreakingChanges.pdb
+C:\Users\guthireddy.reddy\Downloads\DemoCSATool\BreakingChanges\obj\Debug\BreakingChanges.csproj.AssemblyReference.cache
+C:\Users\guthireddy.reddy\Downloads\DemoCSATool\BreakingChanges\obj\Debug\BreakingChanges.csproj.CoreCompileInputs.cache
+C:\Users\guthireddy.reddy\Downloads\DemoCSATool\BreakingChanges\obj\Debug\BreakingChanges.dll
+C:\Users\guthireddy.reddy\Downloads\DemoCSATool\BreakingChanges\obj\Debug\BreakingChanges.pdb

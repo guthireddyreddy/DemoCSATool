@@ -1,0 +1,14 @@
+C:\Users\guthireddy.reddy\Downloads\DemoCSATool\AerospikeClient\bin\Debug\AerospikeClientLibrary.dll
+C:\Users\guthireddy.reddy\Downloads\DemoCSATool\AerospikeClient\bin\Debug\AerospikeClientLibrary.pdb
+C:\Users\guthireddy.reddy\Downloads\DemoCSATool\AerospikeClient\bin\Debug\AerospikeClient.dll
+C:\Users\guthireddy.reddy\Downloads\DemoCSATool\AerospikeClient\bin\Debug\Iconic.Zlib.Netstandard.dll
+C:\Users\guthireddy.reddy\Downloads\DemoCSATool\AerospikeClient\bin\Debug\Neo.Lua.dll
+C:\Users\guthireddy.reddy\Downloads\DemoCSATool\AerospikeClient\bin\Debug\Iconic.Zlib.Netstandard.xml
+C:\Users\guthireddy.reddy\Downloads\DemoCSATool\AerospikeClient\bin\Debug\Neo.Lua.pdb
+C:\Users\guthireddy.reddy\Downloads\DemoCSATool\AerospikeClient\bin\Debug\Neo.Lua.xml
+C:\Users\guthireddy.reddy\Downloads\DemoCSATool\AerospikeClient\bin\Debug\de\Neo.Lua.resources.dll
+C:\Users\guthireddy.reddy\Downloads\DemoCSATool\AerospikeClient\obj\Debug\AerospikeClientLibrary.csproj.AssemblyReference.cache
+C:\Users\guthireddy.reddy\Downloads\DemoCSATool\AerospikeClient\obj\Debug\AerospikeClientLibrary.csproj.CoreCompileInputs.cache
+C:\Users\guthireddy.reddy\Downloads\DemoCSATool\AerospikeClient\obj\Debug\AerospikeClientLibrary.csproj.CopyComplete
+C:\Users\guthireddy.reddy\Downloads\DemoCSATool\AerospikeClient\obj\Debug\AerospikeClientLibrary.dll
+C:\Users\guthireddy.reddy\Downloads\DemoCSATool\AerospikeClient\obj\Debug\AerospikeClientLibrary.pdb

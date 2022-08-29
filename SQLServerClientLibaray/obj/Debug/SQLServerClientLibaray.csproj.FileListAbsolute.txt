@@ -1,0 +1,6 @@
+C:\Users\guthireddy.reddy\Downloads\DemoCSATool\SQLServerClientLibaray\bin\Debug\SQLServerClientLibaray.dll
+C:\Users\guthireddy.reddy\Downloads\DemoCSATool\SQLServerClientLibaray\bin\Debug\SQLServerClientLibaray.pdb
+C:\Users\guthireddy.reddy\Downloads\DemoCSATool\SQLServerClientLibaray\obj\Debug\SQLServerClientLibaray.csproj.AssemblyReference.cache
+C:\Users\guthireddy.reddy\Downloads\DemoCSATool\SQLServerClientLibaray\obj\Debug\SQLServerClientLibaray.csproj.CoreCompileInputs.cache
+C:\Users\guthireddy.reddy\Downloads\DemoCSATool\SQLServerClientLibaray\obj\Debug\SQLServerClientLibaray.dll
+C:\Users\guthireddy.reddy\Downloads\DemoCSATool\SQLServerClientLibaray\obj\Debug\SQLServerClientLibaray.pdb
