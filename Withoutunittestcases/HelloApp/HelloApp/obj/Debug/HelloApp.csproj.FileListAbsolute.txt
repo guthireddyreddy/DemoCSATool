@@ -1,0 +1,7 @@
+C:\Users\hemavenkata.hshah\source\repos\HelloApp\HelloApp\bin\HelloApp.dll.config
+C:\Users\hemavenkata.hshah\source\repos\HelloApp\HelloApp\bin\HelloApp.dll
+C:\Users\hemavenkata.hshah\source\repos\HelloApp\HelloApp\bin\HelloApp.pdb
+C:\Users\hemavenkata.hshah\source\repos\HelloApp\HelloApp\obj\Debug\HelloApp.csproj.AssemblyReference.cache
+C:\Users\hemavenkata.hshah\source\repos\HelloApp\HelloApp\obj\Debug\HelloApp.csproj.CoreCompileInputs.cache
+C:\Users\hemavenkata.hshah\source\repos\HelloApp\HelloApp\obj\Debug\HelloApp.dll
+C:\Users\hemavenkata.hshah\source\repos\HelloApp\HelloApp\obj\Debug\HelloApp.pdb
