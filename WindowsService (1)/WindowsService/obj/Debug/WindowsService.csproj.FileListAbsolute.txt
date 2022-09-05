@@ -1,0 +1,10 @@
+C:\Users\hemavenkata.hshah\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.csproj.AssemblyReference.cache
+C:\Users\hemavenkata.hshah\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.csproj.SuggestedBindingRedirects.cache
+C:\Users\hemavenkata.hshah\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.ProjectInstaller.resources
+C:\Users\hemavenkata.hshah\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.csproj.GenerateResource.cache
+C:\Users\hemavenkata.hshah\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.csproj.CoreCompileInputs.cache
+C:\Users\hemavenkata.hshah\source\repos\WindowsService\WindowsService\bin\Debug\WindowsService.exe.config
+C:\Users\hemavenkata.hshah\source\repos\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+C:\Users\hemavenkata.hshah\source\repos\WindowsService\WindowsService\bin\Debug\WindowsService.pdb
+C:\Users\hemavenkata.hshah\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.exe
+C:\Users\hemavenkata.hshah\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.pdb

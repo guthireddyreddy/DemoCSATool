@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "K76PVOAv+dKJJTpT02LXGXP03poaMv0D0N16vPH1I/SY+OdgT9eoR+XGcX9clJRqWKAOwpIHA4LeIFpE1K2CjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hemavenkata.hshah\\source\\repos\\DataLoader\\DataLoader\\DataLoader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hemavenkata.hshah\\.nuget\\packages\\aerospike.client\\5.2.2\\aerospike.client.5.2.2.nupkg.sha512",
+    "C:\\Users\\hemavenkata.hshah\\.nuget\\packages\\iconic.zlib.netstandard\\1.0.0\\iconic.zlib.netstandard.1.0.0.nupkg.sha512",
+    "C:\\Users\\hemavenkata.hshah\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\hemavenkata.hshah\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\hemavenkata.hshah\\.nuget\\packages\\neolua\\1.3.13\\neolua.1.3.13.nupkg.sha512",
+    "C:\\Users\\hemavenkata.hshah\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
