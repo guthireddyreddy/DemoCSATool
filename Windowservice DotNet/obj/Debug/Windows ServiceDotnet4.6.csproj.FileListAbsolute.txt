@@ -1,0 +1,10 @@
+C:\Users\guthireddy.reddy\Downloads\Hello_World\Hello_World\bin\Debug\Hello_World.exe.config
+C:\Users\guthireddy.reddy\Downloads\Hello_World\Hello_World\bin\Debug\Hello_World.exe
+C:\Users\guthireddy.reddy\Downloads\Hello_World\Hello_World\bin\Debug\Hello_World.pdb
+C:\Users\guthireddy.reddy\Downloads\Hello_World\Hello_World\obj\Debug\Windows ServiceDotnet4.6.csproj.AssemblyReference.cache
+C:\Users\guthireddy.reddy\Downloads\Hello_World\Hello_World\obj\Debug\Windows ServiceDotnet4.6.csproj.SuggestedBindingRedirects.cache
+C:\Users\guthireddy.reddy\Downloads\Hello_World\Hello_World\obj\Debug\Hello_World.ProjectInstaller.resources
+C:\Users\guthireddy.reddy\Downloads\Hello_World\Hello_World\obj\Debug\Windows ServiceDotnet4.6.csproj.GenerateResource.cache
+C:\Users\guthireddy.reddy\Downloads\Hello_World\Hello_World\obj\Debug\Windows ServiceDotnet4.6.csproj.CoreCompileInputs.cache
+C:\Users\guthireddy.reddy\Downloads\Hello_World\Hello_World\obj\Debug\Hello_World.exe
+C:\Users\guthireddy.reddy\Downloads\Hello_World\Hello_World\obj\Debug\Hello_World.pdb

@@ -1,0 +1,10 @@
+C:\Users\guthireddy.reddy\Finalcode\Windowservice DotNet\bin\Debug\Hello_World.exe.config
+C:\Users\guthireddy.reddy\Finalcode\Windowservice DotNet\bin\Debug\Hello_World.exe
+C:\Users\guthireddy.reddy\Finalcode\Windowservice DotNet\bin\Debug\Hello_World.pdb
+C:\Users\guthireddy.reddy\Finalcode\Windowservice DotNet\obj\Debug\Windows ServiceDotnet.csproj.AssemblyReference.cache
+C:\Users\guthireddy.reddy\Finalcode\Windowservice DotNet\obj\Debug\Windows ServiceDotnet.csproj.SuggestedBindingRedirects.cache
+C:\Users\guthireddy.reddy\Finalcode\Windowservice DotNet\obj\Debug\Hello_World.ProjectInstaller.resources
+C:\Users\guthireddy.reddy\Finalcode\Windowservice DotNet\obj\Debug\Windows ServiceDotnet.csproj.GenerateResource.cache
+C:\Users\guthireddy.reddy\Finalcode\Windowservice DotNet\obj\Debug\Windows ServiceDotnet.csproj.CoreCompileInputs.cache
+C:\Users\guthireddy.reddy\Finalcode\Windowservice DotNet\obj\Debug\Hello_World.exe
+C:\Users\guthireddy.reddy\Finalcode\Windowservice DotNet\obj\Debug\Hello_World.pdb

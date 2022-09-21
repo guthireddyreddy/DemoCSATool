@@ -1,0 +1,10 @@
+C:\Users\hemavenkata.hshah\source\repos\Hello_World\Hello_World\bin\Debug\Hello_World.exe.config
+C:\Users\hemavenkata.hshah\source\repos\Hello_World\Hello_World\bin\Debug\Hello_World.exe
+C:\Users\hemavenkata.hshah\source\repos\Hello_World\Hello_World\bin\Debug\Hello_World.pdb
+C:\Users\hemavenkata.hshah\source\repos\Hello_World\Hello_World\obj\Debug\Hello_World.csproj.AssemblyReference.cache
+C:\Users\hemavenkata.hshah\source\repos\Hello_World\Hello_World\obj\Debug\Hello_World.csproj.SuggestedBindingRedirects.cache
+C:\Users\hemavenkata.hshah\source\repos\Hello_World\Hello_World\obj\Debug\Hello_World.csproj.CoreCompileInputs.cache
+C:\Users\hemavenkata.hshah\source\repos\Hello_World\Hello_World\obj\Debug\Hello_World.exe
+C:\Users\hemavenkata.hshah\source\repos\Hello_World\Hello_World\obj\Debug\Hello_World.pdb
+C:\Users\hemavenkata.hshah\source\repos\Hello_World\Hello_World\obj\Debug\Hello_World.ProjectInstaller.resources
+C:\Users\hemavenkata.hshah\source\repos\Hello_World\Hello_World\obj\Debug\Hello_World.csproj.GenerateResource.cache
