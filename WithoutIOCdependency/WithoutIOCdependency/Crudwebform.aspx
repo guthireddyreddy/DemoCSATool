@@ -10,7 +10,7 @@
     <form id="form1" runat="server">
         <div align="center">  
                 <h1 style="color:green">Welcome To CURD Operation Without Database</h1>  
-                <div style="width: 55%; border: 5px solid yellow; border-radius: 25px; box-shadow: maroon 10px 10px 10px; color: aliceblue">  
+                <div style="width: 55%; border: 5px solid yellow; border-radius: 25px; box-shadow: maroon 10px 10px 10px; color:#00248E">  
                     <table>  
                         <tr>  
                             <td></td>  
