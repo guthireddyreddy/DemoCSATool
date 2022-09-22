@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E1B0E88D-F277-49BC-B4B9-35D2D190CD75}</ProjectGuid>
+    <ProjectGuid>{4A5F7A2A-9E67-451D-8C3B-F8351D960685}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>EventCollectorTest</RootNamespace>

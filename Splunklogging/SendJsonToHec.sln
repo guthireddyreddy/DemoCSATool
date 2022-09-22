@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendJsonToHec", "SendJsonToHec\SendJsonToHec.csproj", "{E1B0E88D-F277-49BC-B4B9-35D2D190CD75}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplunkLogging", "SendJsonToHec\SplunkLogging.csproj", "{4A5F7A2A-9E67-451D-8C3B-F8351D960685}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,12 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E1B0E88D-F277-49BC-B4B9-35D2D190CD75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E1B0E88D-F277-49BC-B4B9-35D2D190CD75}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E1B0E88D-F277-49BC-B4B9-35D2D190CD75}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E1B0E88D-F277-49BC-B4B9-35D2D190CD75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A5F7A2A-9E67-451D-8C3B-F8351D960685}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A5F7A2A-9E67-451D-8C3B-F8351D960685}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A5F7A2A-9E67-451D-8C3B-F8351D960685}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A5F7A2A-9E67-451D-8C3B-F8351D960685}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BC9FEE5-74C2-4F03-85FA-D29CBF21E19F}
 	EndGlobalSection
 EndGlobal
